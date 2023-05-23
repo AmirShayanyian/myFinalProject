@@ -7,12 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\ToDoDescription\" />
-    <Folder Include="Entities\Users\" />
-    <Folder Include="Entities\ToDo\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.15">
       <PrivateAssets>all</PrivateAssets>
